@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjin0706&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjin0706&layout=compact&theme=tokyonight)](https://github.com/seokjin0706/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjin0706&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/seokjin0706/github-readme-stats)
 
 # 💪Skills
 
