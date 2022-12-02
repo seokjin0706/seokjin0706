@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjin0706&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/seokjin0706/github-readme-stats)
 
-# 💪Skills
+# Skills
 
 ### Languages & Frameworks
 
